@@ -1,0 +1,10 @@
+{
+  "id": "picnexus",
+  "name": "PicNexus",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Upload pasted and dropped images through the PicNexus desktop app.",
+  "author": "joeyliu6",
+  "authorUrl": "https://github.com/joeyliu6",
+  "isDesktopOnly": true
+}
